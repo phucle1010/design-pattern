@@ -1,0 +1,20 @@
+D:\Subject\Mẫu thiết kế\design-pattern\composite\obj\Debug\net7.0\composite.csproj.AssemblyReference.cache
+D:\Subject\Mẫu thiết kế\design-pattern\composite\obj\Debug\net7.0\composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subject\Mẫu thiết kế\design-pattern\composite\obj\Debug\net7.0\composite.AssemblyInfoInputs.cache
+D:\Subject\Mẫu thiết kế\design-pattern\composite\obj\Debug\net7.0\composite.AssemblyInfo.cs
+D:\Subject\Mẫu thiết kế\design-pattern\composite\obj\Debug\net7.0\composite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\composite.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\composite.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\composite.AssemblyInfo.cs
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\composite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\design-pattern\composite\bin\Debug\net7.0\composite.exe
+C:\Users\Admin\Desktop\design-pattern\composite\bin\Debug\net7.0\composite.deps.json
+C:\Users\Admin\Desktop\design-pattern\composite\bin\Debug\net7.0\composite.runtimeconfig.json
+C:\Users\Admin\Desktop\design-pattern\composite\bin\Debug\net7.0\composite.dll
+C:\Users\Admin\Desktop\design-pattern\composite\bin\Debug\net7.0\composite.pdb
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\composite.dll
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\refint\composite.dll
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\composite.pdb
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\composite.genruntimeconfig.cache
+C:\Users\Admin\Desktop\design-pattern\composite\obj\Debug\net7.0\ref\composite.dll
