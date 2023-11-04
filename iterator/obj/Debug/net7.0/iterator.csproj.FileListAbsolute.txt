@@ -1,0 +1,15 @@
+D:\Subject\Design Pattern\design-pattern\iterator\bin\Debug\net7.0\iterator.exe
+D:\Subject\Design Pattern\design-pattern\iterator\bin\Debug\net7.0\iterator.deps.json
+D:\Subject\Design Pattern\design-pattern\iterator\bin\Debug\net7.0\iterator.runtimeconfig.json
+D:\Subject\Design Pattern\design-pattern\iterator\bin\Debug\net7.0\iterator.dll
+D:\Subject\Design Pattern\design-pattern\iterator\bin\Debug\net7.0\iterator.pdb
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\iterator.csproj.AssemblyReference.cache
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\iterator.AssemblyInfoInputs.cache
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\iterator.AssemblyInfo.cs
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\iterator.csproj.CoreCompileInputs.cache
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\iterator.dll
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\refint\iterator.dll
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\iterator.pdb
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\iterator.genruntimeconfig.cache
+D:\Subject\Design Pattern\design-pattern\iterator\obj\Debug\net7.0\ref\iterator.dll
