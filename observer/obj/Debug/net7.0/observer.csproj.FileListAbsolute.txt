@@ -1,0 +1,15 @@
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\observer.csproj.AssemblyReference.cache
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\observer.AssemblyInfoInputs.cache
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\observer.AssemblyInfo.cs
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\observer.csproj.CoreCompileInputs.cache
+D:\Subject\Design Pattern\design-pattern\observer\bin\Debug\net7.0\observer.exe
+D:\Subject\Design Pattern\design-pattern\observer\bin\Debug\net7.0\observer.deps.json
+D:\Subject\Design Pattern\design-pattern\observer\bin\Debug\net7.0\observer.runtimeconfig.json
+D:\Subject\Design Pattern\design-pattern\observer\bin\Debug\net7.0\observer.dll
+D:\Subject\Design Pattern\design-pattern\observer\bin\Debug\net7.0\observer.pdb
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\observer.dll
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\refint\observer.dll
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\observer.pdb
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\observer.genruntimeconfig.cache
+D:\Subject\Design Pattern\design-pattern\observer\obj\Debug\net7.0\ref\observer.dll
