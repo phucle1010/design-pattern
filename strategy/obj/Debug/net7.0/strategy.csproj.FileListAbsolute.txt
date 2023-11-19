@@ -1,0 +1,15 @@
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\strategy.csproj.AssemblyReference.cache
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\strategy.AssemblyInfoInputs.cache
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\strategy.AssemblyInfo.cs
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\strategy.csproj.CoreCompileInputs.cache
+D:\Subject\Design Pattern\design-pattern\strategy\bin\Debug\net7.0\strategy.exe
+D:\Subject\Design Pattern\design-pattern\strategy\bin\Debug\net7.0\strategy.deps.json
+D:\Subject\Design Pattern\design-pattern\strategy\bin\Debug\net7.0\strategy.runtimeconfig.json
+D:\Subject\Design Pattern\design-pattern\strategy\bin\Debug\net7.0\strategy.dll
+D:\Subject\Design Pattern\design-pattern\strategy\bin\Debug\net7.0\strategy.pdb
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\strategy.dll
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\refint\strategy.dll
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\strategy.pdb
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\strategy.genruntimeconfig.cache
+D:\Subject\Design Pattern\design-pattern\strategy\obj\Debug\net7.0\ref\strategy.dll
